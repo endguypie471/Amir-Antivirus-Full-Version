@@ -233,3 +233,6 @@ This repository serves as the official landing page for Amir Antivirus. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Amir Antivirus today!**
+
+---
+**Last updated:** 2026-09-07 14:42:14 UTC
