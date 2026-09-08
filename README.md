@@ -235,4 +235,4 @@ This repository serves as the official landing page for Amir Antivirus. The soft
 **Get the most recent version of Amir Antivirus today!**
 
 ---
-**Last updated:** 2026-09-07 23:55:19 UTC
+**Last updated:** 2026-09-08 02:45:47 UTC
